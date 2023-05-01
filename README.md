@@ -1,4 +1,4 @@
-A sorting method that uses the [[Elo Sort]] system, originally designed to rank chess players. Potentially more accurate than [[Merge Sort]], though will take much longer as it needs to compare every single combination of items.
+A sorting method that uses the Elo Sort system, originally designed to rank chess players. Potentially more accurate than Merge Sort, though will take much longer as it needs to compare every single combination of items.
 
 ## Running
 
