@@ -10,4 +10,4 @@ python elo_ranking.py item1 item2 item3 ...
 
 The script takes the items for comparison as arguments upon execution. 
 
-A theoretical infinite amount of items are allowed to be taken as arguments, but massive amounts of items will take an **extremely** long time for the user to rank. Use Merge Sort ranker if you plan on sorting a large amount of items.
+A theoretical infinite amount of items are allowed to be taken as arguments, but massive amounts of items will take an **extremely** long time for the user to rank. Use my merge sort ranker if you plan on sorting a large amount of items.
